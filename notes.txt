@@ -1,0 +1,8 @@
+Goals:
+- Open directory for editing and serving via service worker.
+- Cached locally for offline use.
+- Vim controls.
+- Multi cursor.
+- Autocomplete.
+- Fuzzy search.
+- Coffee colours.
